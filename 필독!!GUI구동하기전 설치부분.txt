@@ -1,0 +1,17 @@
+파이썬 라이브러리 필수 설치
+
+cmd -> pip install pygame  커맨드 cmd 실행후 입력값 넣고 후 라이브러리 설치 
+
+cmd -> pip install customtkinter 커맨드 cmd 실행후 다른 입력값 설치 ( 라이브러리 )
+
+설치가 끝난후 cmd 종료 그 후 GUI 실행
+
+게임이나 그래픽 프로그램 만드는 라이브러리 이므로 필수조건
+
+실행 파일은 run_game.bat 파일을 실행
+
+혹여나 실행 안될시 2가지 버전 설치 (비주얼 스튜디오)
+
+Pygame Snippets, pygame snips 설치후 
+
+
