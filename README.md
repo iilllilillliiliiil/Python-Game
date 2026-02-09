@@ -3,7 +3,7 @@
 * 개발 인원 : 1인
 
 # Tech Stack
-* Language: Python
+* Language : Python
 * Library
     * customtkinter : 현대적인 UI 컴포넌트 및 다크 모드 구현
     * Pillow (PIL) : 이미지 처리 및 아이콘 렌더링
